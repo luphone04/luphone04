@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luphone04&label=Profile%20views&color=0e75b6&style=flat" alt="luphone04" /> </p>
 
-- 🌱 I’m currently learning **Intermediate HTML and CSS**
+- 🌱 I’m currently exploring **Machine Learning & Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [luphone04.github.io/personal-portfolio/](luphone04.github.io/personal-portfolio/)
 
