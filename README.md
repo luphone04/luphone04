@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [luphone04.github.io/personal-portfolio/](luphone04.github.io/personal-portfolio/)
 
-- 💬 Ask me about **Python, Java , HTML, CSS**
+- 💬 Ask me about **Python, Java , , PhP, HTML, CSS**
 
 - 📫 How to reach me **luphonemaw09@gmail.com**
 
