@@ -3,7 +3,7 @@
 <li>
   <ul>Machine Learning</ul>
   <ul>Deep Learning</ul>
-   <ul>Reinforcement Learning</ul>
-   <ul>Natural Language Processing</ul>
-   <ul>Computer Vision</ul>
+  <ul>Reinforcement Learning</ul>
+  <ul>Natural Language Processing</ul>
+  <ul>Computer Vision</ul>
 </li>
