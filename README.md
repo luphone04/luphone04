@@ -1,5 +1,5 @@
 ### Hi, I'm Lu Phone Maw 👋  Call me Richard!
-Junior Data / AI Engineer · Burmese grad in Thailand  
+Junior AI Engineer · Burmese grad in Thailand  
 I like building with LLMs, data, and cloud.
 
 ---
