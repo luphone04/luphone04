@@ -14,7 +14,6 @@ I like building with LLMs, data, and cloud.
 ### ⚙️ Tech Stack
 
 **Languages & Core**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
