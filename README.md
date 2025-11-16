@@ -1,5 +1,5 @@
-### Hi, I'm Lu 👋  
-Junior Data / AI Engineer · Burmese grad in Thailand  
+### Hi, I'm Lu Phone Maw 👋 Call me Richard!  
+Junior AI Engineer · Burmese grad in Thailand  
 I like building with LLMs, data, and cloud.
 
 ---
@@ -54,7 +54,7 @@ I like building with LLMs, data, and cloud.
 ### 🚀 Featured Work
 
 - **LLM Fine-tuning for ATE & ASC** – Aspect-based sentiment model with improved F1 & accuracy over baselines.  
-- **Book Publishing Platform** – Full-stack system for author → editor → publisher, with semantic search & AI ad generation.  
+- **Book Publishing Platform** – Full-stack system for author → editor → publisher, with semantic search & N8N content generation and posting.  
 - **Anime Recommender (RAG)** – Recommendation system using embeddings, RAG, Docker, GCP, and monitoring.
 
 _Check my pinned repos for code and details._
@@ -72,5 +72,5 @@ _Check my pinned repos for code and details._
 
 ### 📫 Contact
 
-📧 your-email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link)
+- 📧 luphonemaw09@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lu-phone-maw-05b171258)
