@@ -1,5 +1,5 @@
-### Hi, I'm Lu Phone Maw 👋  Call me Richard!
-Junior AI Engineer · Burmese grad in Thailand  
+### Hi, I'm Lu 👋  
+Junior Data / AI Engineer · Burmese grad in Thailand  
 I like building with LLMs, data, and cloud.
 
 ---
@@ -45,6 +45,10 @@ I like building with LLMs, data, and cloud.
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 
+**Automation & Orchestration**
+
+![n8n](https://img.shields.io/badge/n8n-111827?logo=n8n&logoColor=white)
+
 ---
 
 ### 🚀 Featured Work
@@ -68,5 +72,5 @@ _Check my pinned repos for code and details._
 
 ### 📫 Contact
 
-📧 luphonemaw09@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/lu-phone-maw-05b171258)
+📧 your-email@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-link)
