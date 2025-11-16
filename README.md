@@ -68,5 +68,5 @@ _Check my pinned repos for code and details._
 
 ### 📫 Contact
 
-📧 your-email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link)
+📧 luphonemaw09@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/lu-phone-maw-05b171258)
