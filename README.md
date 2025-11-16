@@ -20,7 +20,6 @@ I like building with LLMs, data, and cloud.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 **AI / ML / DL**
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
@@ -29,7 +28,6 @@ I like building with LLMs, data, and cloud.
 ![LoRA](https://img.shields.io/badge/LoRA%2FQLoRA-364FC7)
 
 **Web & Data**
-
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=000)
@@ -37,7 +35,6 @@ I like building with LLMs, data, and cloud.
 ![REST API](https://img.shields.io/badge/REST-0052CC)
 
 **Cloud & DevOps**
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
@@ -45,7 +42,6 @@ I like building with LLMs, data, and cloud.
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 
 **Automation & Orchestration**
-
 ![n8n](https://img.shields.io/badge/n8n-111827?logo=n8n&logoColor=white)
 
 ---
