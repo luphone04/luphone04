@@ -1,89 +1,72 @@
-# Hi, I'm Lu 👋
-
-**Junior Data / AI Engineer · LLM & Cloud Enthusiast**
-
-I'm a Burmese graduate based in Thailand, focusing on **LLMs, data engineering, and cloud**.  
-I like turning ideas into real, working systems – from fine-tuning models to deploying full-stack apps on the cloud.
+### Hi, I'm Lu Phone Maw 👋  Call me Richard!
+Junior Data / AI Engineer · Burmese grad in Thailand  
+I like building with LLMs, data, and cloud.
 
 ---
 
-### 🔍 What I'm focused on right now
+### 🔄 Currently
 
-- Studying **AWS Cloud Practitioner** and planning the next AWS cert
-- Building **LLM & RAG projects** (evaluation, fine-tuning, retrieval)
-- Applying for **internships / junior roles** in data, AI, or cloud in Thailand
-- Improving my **Python, SQL, and system design** skills
+- Studying for **AWS Cloud Practitioner** certification  
+- Building **LLM / RAG side projects** and polishing my portfolio
 
 ---
 
-### 🧠 Highlights
+### ⚙️ Tech Stack
 
-- **LLM Fine-tuning & Evaluation (Senior Thesis)**  
-  Fine-tuned a language model for **Aspect Term Extraction (ATE)** and **Aspect Sentiment Classification (ASC)** with strong improvements over baselines.
+**Languages & Core**
 
-- **Book Publishing Platform – Full-stack Client Project**  
-  Built an end-to-end platform for author → editor → publisher workflow, with  
-  in-browser DOCX editing, real-time chat, e-commerce, semantic search, and AI-generated ads.
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-- **Anime Recommender with RAG & Monitoring**  
-  Implemented a recommendation system using **RAG**, embeddings, Docker, GCP, and monitoring with Grafana.
+**AI / ML / DL**
 
----
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
+![RAG](https://img.shields.io/badge/RAG-0B7285)
+![LoRA](https://img.shields.io/badge/LoRA%2FQLoRA-364FC7)
 
-### 🛠 Tech & Tools
+**Web & Data**
 
-**Languages:**  
-`Python` · `SQL` · `TypeScript` · `JavaScript`
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-0052CC)
 
-**AI / ML:**  
-`PyTorch` · `Hugging Face (Transformers, PEFT, TRL)` · `LoRA / QLoRA` · `sentence-transformers`  
+**Cloud & DevOps**
 
-**Data / RAG / Backend:**  
-`ChromaDB` · `LangChain` · `REST APIs`  
-
-**Web & Databases:**  
-`Next.js` · `React` · `Supabase (PostgreSQL, Auth, RLS, Storage, Realtime)`  
-
-**Cloud & DevOps:**  
-`AWS EC2` · `GCP VM` · `Docker` · `Kubernetes (Minikube)` · `Grafana` · `Cloudflare`
-
-**Other:**  
-`Linux` · `Git` · `N8N` · `OnlyOffice`
-
----
-
-### 📌 Featured Projects
-
-- **LLM Fine-tuning for ATE & ASC**  
-  Fine-tuned an LLM for aspect-based sentiment analysis with evaluation on precision/recall/F1 and accuracy.  
-  _Repo:_ `[link to thesis repo]`
-
-- **Book Publishing Platform (Client Project)**  
-  Full-stack system for managing submissions, editing, publishing, and sales.  
-  Includes semantic search (HF embeddings), AI ad generation (agents + N8N), and deployment on AWS EC2.  
-  _Repo:_ `[link to book platform repo]`
-
-- **Anime Recommender with RAG**  
-  Recommendation system using embeddings, RAG, Dockerized services, monitoring with Grafana, and deployment on GCP.  
-  _Repo:_ `[link to anime recommender repo]`
-
-*(Replace `[link to ...]` with your actual GitHub repo links.)*
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 
 ---
 
-### 🤝 Open to
+### 🚀 Featured Work
 
-- **Internships / junior roles** in:
-  - AI / LLM Engineering
-  - Cloud / Backend (Python, AWS, GCP)
-- Remote or on-site in **Thailand**
+- **LLM Fine-tuning for ATE & ASC** – Aspect-based sentiment model with improved F1 & accuracy over baselines.  
+- **Book Publishing Platform** – Full-stack system for author → editor → publisher, with semantic search & AI ad generation.  
+- **Anime Recommender (RAG)** – Recommendation system using embeddings, RAG, Docker, GCP, and monitoring.
+
+_Check my pinned repos for code and details._
+
+---
+
+### ✅ Open to Work
+
+- AI / **LLM Engineer** (junior)  
+- **Full-stack Developer** (TypeScript / Next.js)  
+- **LLMOps / MLOps for LLM systems**  
+- Junior **Data / ML Engineer**
 
 ---
 
 ### 📫 Contact
 
-- **Email:** `your-email@example.com`  
-- **LinkedIn:** `[your LinkedIn URL]`  
-- **GitHub:** you’re already here 😄
-
-If you’re working on something in data / AI / cloud and need someone who can learn fast and actually ship things, feel free to reach out!
+📧 your-email@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-link)
