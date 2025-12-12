@@ -14,36 +14,53 @@ I’m an ML Engineer / MLOps engineer focused on turning experiments into produc
 
 ### ⚙️ Tech Stack
 
-**Languages & Core**
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-**AI / ML / DL**
+**ML/AI**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-0B7285)
+![XGBoost](https://img.shields.io/badge/XGBoost-1A1A1A)
+![LightGBM](https://img.shields.io/badge/LightGBM-2F9E44)
+![Hugging%20Face%20Transformers](https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?logo=huggingface&logoColor=000)
+![LangChain](https://img.shields.io/badge/LangChain-1F2937)
+![QLoRA%2FPEFT](https://img.shields.io/badge/QLoRA%2FPEFT-364FC7)
+![Optuna](https://img.shields.io/badge/Optuna-5C7CFA)
 ![RAG](https://img.shields.io/badge/RAG-0B7285)
-![LoRA](https://img.shields.io/badge/LoRA%2FQLoRA-364FC7)
+![Unsloth](https://img.shields.io/badge/Unsloth-111827)
 
-**Web & Data**
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=000)
+**LLMs**  
+![Llama%203](https://img.shields.io/badge/Llama%203-6C5CE7)
+![Mistral](https://img.shields.io/badge/Mistral-111827)
+![GPT--4](https://img.shields.io/badge/GPT--4-000000?logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white)
+![Prompt%20Engineering](https://img.shields.io/badge/Prompt%20Engineering-495057)
+![RAGAS%20Eval](https://img.shields.io/badge/RAGAS%20Eval-343A40)
+
+**Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-0052CC)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=000)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-111827)
+![pgvector](https://img.shields.io/badge/pgvector-0B7285)
+![BM25](https://img.shields.io/badge/BM25-343A40)
 
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+**DevOps & Tools**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-
-**Automation & Orchestration**
+![MLflow](https://img.shields.io/badge/MLflow-0194E2)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?logo=amazonaws&logoColor=000)
+![ECS](https://img.shields.io/badge/ECS-FF9900?logo=amazonaws&logoColor=000)
+![VPC](https://img.shields.io/badge/VPC-FF9900?logo=amazonaws&logoColor=000)
+![ALB](https://img.shields.io/badge/ALB-FF9900?logo=amazonaws&logoColor=000)
+![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?logo=amazonaws&logoColor=000)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-111827?logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
@@ -58,10 +75,9 @@ _Check my pinned repos for code and details._
 
 ### ✅ Open to Work
 
-- AI / **LLM Engineer** (junior)  
-- **Full-stack Developer** (TypeScript / Next.js)  
-- **LLMOps / MLOps for LLM systems**  
-- Junior **Data / ML Engineer**
+- MLOPs / ML Engineer
+- LLM Ops / LLM Engineer
+- Fullstack Developer
 
 ---
 
