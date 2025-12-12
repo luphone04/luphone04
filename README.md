@@ -2,7 +2,7 @@
 Junior AI Engineer · Burmese grad in Thailand
 
 <p style="font-size: 1rem; font-weight: 400; margin-top: 1rem;">
-I’m an ML Engineer / MLOps engineer focused on turning experiments into production ML systems that create measurable business impact...
+I’m an ML Engineer / MLOps engineer focused on turning experiments into production ML systems that create measurable business impact. I build end-to-end pipelines—from data ingestion and feature workflows to training, evaluation, deployment, and monitoring—so models are reliable, reproducible, and easy to iterate on. I enjoy bridging research and engineering to deliver ML products that scale and keep improving after launch.
 </p>
 ---
 
