@@ -5,6 +5,7 @@ Junior AI Engineer · Burmese grad in Thailand
 I’m an ML Engineer / MLOps engineer focused on turning experiments into production ML systems that create measurable business impact. I build end-to-end pipelines—from data ingestion and feature workflows to training, evaluation, deployment, and monitoring—so models are reliable, reproducible, and easy to iterate on. I enjoy bridging research and engineering to deliver ML products that scale and keep improving after launch.
 </p>
 ---
+
 ### 🚀 Experiences
 
 - **LLM Fine-tuning for ATE & ASC** – Aspect-based sentiment model with improved F1 & accuracy for extacting important aspect words from domain specific reviews and analyzing sentiment on each words.  
