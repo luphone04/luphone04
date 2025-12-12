@@ -47,11 +47,11 @@ I’m an ML Engineer / MLOps engineer focused on turning experiments into produc
 
 ---
 
-### 🚀 Featured Work
+### 🚀 Experiences
 
 - **LLM Fine-tuning for ATE & ASC** – Aspect-based sentiment model with improved F1 & accuracy for extacting important aspect words from domain specific reviews and analyzing sentiment on each words.  
-- **Book Publishing Platform** – Full-stack system for author → editor → publisher, with semantic search & N8N content generation and posting.
-- 
+- **Book Publishing Platform** – Full-stack book publishing web app for Myat Pwint Book Publishers (invovling embedding semantic search and automated social media posting with n8n).
+  
 _Check my pinned repos for code and details._
 
 ---
